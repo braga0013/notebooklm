@@ -54,4 +54,5 @@ resposta = perguntar_ao_gemini(conteudo_total, pergunta)
 
 # ====== Mostra a resposta ======
 print("\n📘 RESPOSTA DO GEMINI:\n")
+
 print(resposta)
